@@ -1,5 +1,5 @@
 [package]
-name = "simple-math"
+name = "simplemath"
 version = "0.1.0"
 readme = "README.md"
 description = "Basic math and linear algebra library, with minimal dependencies"
@@ -12,7 +12,7 @@ categories = ["aerospace", "algorithms", "mathematics", "science"]
 name = "embmath"
 
 [dependencies]
-itertools = "0.13.0"
+itertools = "0.14.0"
 thiserror = "2.0.7"
 
 [dev-dependencies]
